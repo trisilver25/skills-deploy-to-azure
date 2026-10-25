@@ -6,9 +6,9 @@ on:
 
 env:
  IMAGE_REGISTRY_URL: ghrc.io
- AZURE_RESOURCE_GROUP: cd-with-actions
+ AZURE_RESOURCE_GROUP: myfreeVMResourceGroup8dbda7
  AZURE_APP_PLAN: actions-ttt-deployment
- AZURE_LOCATION: '"East US"'
+ AZURE_LOCATION: '"Sweden Central"'
  AZURE_WEBAPP_NAME: trisilver25-ttt-app
 
 jobs:
